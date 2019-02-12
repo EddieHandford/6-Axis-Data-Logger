@@ -9,3 +9,5 @@ The purpose of this was to investigate using a control loop to "AUTO Wheelie " a
 
 
 Wiring diagram is not complete , will be included soon
+
+This code is now applicable to any data logging scenerios , especially when multiple sensors are required
