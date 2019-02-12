@@ -10,3 +10,4 @@ The purpose of this was to investigate using a control loop to "AUTO Wheelie " a
 This project however escalated and was sold for a completely different application.
 This code is the intial code before it was then developed further , that is not availble for public use.
 
+Wiring diagram is not complete , will be included soon
