@@ -7,7 +7,8 @@ the bikes frame and the riders chest, the force applied to the brake lever was a
 
 The purpose of this was to investigate using a control loop to "AUTO Wheelie " a bike with a PID loop
 
-
-Wiring diagram is not complete , will be included soon
-
 This code is now applicable to any data logging scenerios , especially when multiple sensors are required
+
+
+
+<img src="bike wheelie.JPG" width="1000" >
